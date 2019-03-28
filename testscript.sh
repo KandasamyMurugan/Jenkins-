@@ -5,3 +5,9 @@ echo "This is a param $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "This is Jenkins and SCM project Result"
+
+
+
+echo "!!!! WELCOME ALL !!!"
+
+
