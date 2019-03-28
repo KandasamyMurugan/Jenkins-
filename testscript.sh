@@ -12,4 +12,6 @@ echo "!!!! WELCOME ALL !!!"
 
 echo "Hello how are you?"
 
+echo "Well I am good :)"
+
 
