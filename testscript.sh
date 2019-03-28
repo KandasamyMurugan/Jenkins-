@@ -10,6 +10,6 @@ echo "This is Jenkins and SCM project Result"
 
 echo "!!!! WELCOME ALL !!!"
 
-echo "!!!! WELCOME ALL !!!"
+
 
 
